@@ -1,8 +1,10 @@
 # Welcome to Open Y My Y
 
-Design wireframes are below
+![image](https://user-images.githubusercontent.com/563412/126308426-ddc1536d-fef7-498f-b8c9-640899fc6386.png)
 
-Current Version
+## Design wireframes are below
+
+### Current Version
 CHANGES
 - Childcare: Cancel has been changed to Remove for products and items within.
 - Transactions: Pay Now buttons have been added back to Orders & Receipts.
@@ -16,7 +18,7 @@ https://xd.adobe.com/spec/128fb6b6-4bd6-4dd4-49ea-ef7238e03623-64be/
 DESKTOP
 https://xd.adobe.com/spec/d491375d-b474-4539-73ce-94f518d8dbcb-a2a0/
 
-v9
+### v9
 
 MOBILE: PHONE
 https://xd.adobe.com/spec/776e9079-d845-45f6-5de3-6e3bfb4c4dc6-015f/
